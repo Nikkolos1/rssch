@@ -1,15 +1,15 @@
 **NAME:**
->Mikita Kolosow:>
+>Nikita Kolosow:>
 
 **CONTACTS:**
->mail:favdev66@tut.by;>
->tel.number:+375(25)515-69-05;>
->discord name:Inshallah(@nikkolos1);>
+__>mail:favdev66@tut.by;>__
+__>tel.number:+375(25)515-69-05;>__
+__>discord name:Inshallah(@nikkolos1);>__
 
 
 **EDUCATION:**
->Energy college (2011-2015)>
->Higher technical education - BSATU(2016-2022);>
+__>Energy college (2011-2015)>__
+__>Higher technical education - BSATU(2016-2022);>__
 
 **WORK:**
 >Electrician from Minsk underground(2015- until now);>
